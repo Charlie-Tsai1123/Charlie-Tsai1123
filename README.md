@@ -1,8 +1,9 @@
 <p align=center>
-<img src="gif/wave.gif" alt="Banner">
+<img src="https://github.com/user-attachments/assets/915a013d-ee6c-4a84-9f72-90b704124589" alt="Banner">
 </p>
 
-
+### About Me
+My name is Charlie Tsai. I'm a student studying Computer Science at Cheng Kung University.
 <!--
 **Charlie-Tsai1123/Charlie-Tsai1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
