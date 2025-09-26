@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align=center>
+<img src="gif/wave.gif" alt="Banner">
+</p>
+
 
 <!--
 **Charlie-Tsai1123/Charlie-Tsai1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
